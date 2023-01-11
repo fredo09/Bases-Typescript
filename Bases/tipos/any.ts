@@ -1,5 +1,7 @@
 (() => {
-
+    /**
+     * Recordatorioi nunca usar Any
+     */
     let avenger:any = 123;
     const exists;
     let power;
