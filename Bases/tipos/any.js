@@ -4,8 +4,8 @@
      * Recordatorioi nunca usar Any
      */
     let avenger = 123;
-    const exists;
+    const exists = true;
     let power;
-    avenger = 'DR STRANGE';
+    avenger = "DR STRANGE";
     console.log(avenger.charAt(0));
 })();

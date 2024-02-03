@@ -1,13 +1,12 @@
 (() => {
-    /**
-     * Recordatorioi nunca usar Any
-     */
-    let avenger:any = 123;
-    const exists;
-    let power;
+  /**
+   * Recordatorioi nunca usar Any
+   */
+  let avenger: any = 123;
+  const exists: any = true;
+  let power;
 
-    avenger = 'DR STRANGE';
+  avenger = "DR STRANGE";
 
-    console.log(avenger.charAt(0));
-
-})()
+  console.log(avenger.charAt(0));
+})();
